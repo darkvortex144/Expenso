@@ -27,8 +27,4 @@ Expenso is an offline-first personal finance management app built with:
 1. Clone the repository
 2. Open in Android Studio
 3. Sync Gradle
-4. Run on emulator or device
-
-## License
-
-MIT
+4. Run on device or emulator
