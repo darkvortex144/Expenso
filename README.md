@@ -3,7 +3,7 @@
 # Expenso
 Expenso is a powerful and easy to use, offline personal expense tracking and money management app.
 ***
-## ✨ Features
+## Features
 
 - Dashboard with financial overview
 - Track daily expenses and income
@@ -22,7 +22,7 @@ Expenso is a powerful and easy to use, offline personal expense tracking and mon
 - Category-wise spending breakdown
 - Financial statements in pdf format
 ***
-## ✨ Screenshots
+## Screenshots
 <table>
   <tr>
     <td><img width="1080" height="2400" alt="1" src="https://github.com/user-attachments/assets/60d1d4b5-3511-4f7c-9748-c27bf172197e" /></td>
